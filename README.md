@@ -1,8 +1,11 @@
-### Hi, I'm Leonardo Ishida 👋
+### Hi, welcome to my profile 👋
+
+<p>I'm a computer science undergraduate at University of Sao Paulo - ICMC. Feel free to contact me with the links below 👇.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ishida-dev/)
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&&bg_color=10,355C7D,6C5B7B,C06C84)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&&bg_color=0,0F2027,203A43,2c5364)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact&bg_color=0,0F2027,203A43,2c5364&title_color=81a1c1&text_color=d8dee9&hide_border=true)
 
 ## Studying
 <div style="display: inline_block"><br/>
@@ -10,7 +13,5 @@
     <img align="center" alt="CSS", src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript", src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="C", src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="Python", src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
-    
+    <img align="center" alt="Python", src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
 </div>
