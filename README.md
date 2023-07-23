@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Leonardo Ishida 👋
 
-<!--
-**LeonardoIshida/LeonardoIshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ishida-dev/)
 
-Here are some ideas to get you started:
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&&bg_color=10,355C7D,6C5B7B,C06C84)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Studying
+<div style="display: inline_block"><br/>
+    <img align="center" alt="HTML5", src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS", src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="JavaScript", src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="C", src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="Python", src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+    
+</div>
