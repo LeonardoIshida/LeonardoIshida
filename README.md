@@ -1,10 +1,20 @@
 ### Hi, welcome to my profile 👋
 
+<div style="margin:auto">
+
+<!-- <img align="right" width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&bg_color=100,211F2F,918CA9&hide=markdown"> -->
+
+<img align="right" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true">
+
+
 <p>I'm a computer science undergraduate at University of Sao Paulo - ICMC. Feel free to contact me with the links below 👇.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ishida-dev/)
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&bg_color=100,211F2F,918CA9)
+</div>
+
+<br>
+
 
 ## Top Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0202&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true)](https://github.com/MiguelHenri/SCC0202)
