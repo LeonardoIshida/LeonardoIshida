@@ -13,7 +13,7 @@
 
 <!-- <img align="right" width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=LeonardoIshida&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&bg_color=100,211F2F,918CA9&hide=markdown"> -->
 
-<img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact&hide_border=true&theme=transparent&title_color=81a1c1&text_color=d8dee9">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIshida&layout=compact&hide_border=true&theme=transparent&title_color=81a1c1&text_color=d8dee9">
 
 
 <p>I'm a computer science undergraduate at University of Sao Paulo - ICMC. Feel free to contact me with the links below 👇.</p>
