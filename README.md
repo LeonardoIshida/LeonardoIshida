@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi, welcome to my profile 👋</h1>
+    <h1>Hi, welcome to my profile <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
     <b>
         Undergraduate student | Future software engineer
     </b>
