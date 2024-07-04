@@ -28,7 +28,10 @@
 
 
 ## Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0202&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true)](https://github.com/MiguelHenri/SCC0202)
+<p align="left">
+     [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0202&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true)]
+     <a href="https://github.com/MiguelHenri/SCC0202"> <img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0202&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true"> </a>
+</p>
 
 
 ## Studying
