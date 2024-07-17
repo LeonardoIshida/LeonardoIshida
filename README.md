@@ -1,7 +1,5 @@
 <div align="center">
-    <h1> 
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+welcome+to+my+profile" alt="Typing SVG" />
-        </a> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+    <h1>Hi, welcome to my profile <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
     <b>
         Undergraduate student | Future software engineer
     </b>
