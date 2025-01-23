@@ -27,12 +27,12 @@
 
 ## Top Projects
 <p align="center">
+    <a href="https://github.com/LeonardoIshida/ClaudineyTTS"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LeonardoIshida&repo=CLaudineyTTS&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=false"> </a>
     <a href="https://github.com/Naders-Soft/plataforma-explicaaso"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Naders-Soft&repo=plataforma-explicaaso&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true"> </a>
-     <a href="https://github.com/MiguelHenri/SCC0202"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0202&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true"> </a>
+     <a href="https://github.com/MiguelHenri/SCC0215"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelHenri&repo=SCC0215&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=true"> </a>
      <a href="https://github.com/LeonardoIshida/base-de-dados"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LeonardoIshida&repo=base-de-dados&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=false"> </a>
      <a href="https://github.com/LeonardoIshida/img-compression-svd"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LeonardoIshida&repo=img-compression-svd&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=false"> </a>
     <a href="https://github.com/LeonardoIshida/not-plants-vs-zombies"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LeonardoIshida&repo=not-plants-vs-zombies&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=false"> </a>
-    <a href="https://github.com/LeonardoIshida/projetos-de-eletronica"> <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LeonardoIshida&repo=projetos-de-eletronica&bg_color=100,211F2F,918CA9&title_color=81a1c1&text_color=d8dee9&hide_border=true&show_owner=false"> </a>
 </p>
 
 ## Current Stack
